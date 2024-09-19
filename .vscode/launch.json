@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyProgram",
+            "request": "launch",
+            "mainClass": "MyProgram",
+            "projectName": "unit1-workspace-ilhs2014350_65dedd65"
+        },
+        {
+            "type": "java",
+            "name": "Turtle",
+            "request": "launch",
+            "mainClass": "Turtle",
+            "projectName": "unit1-workspace-ilhs2014350_65dedd65"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
