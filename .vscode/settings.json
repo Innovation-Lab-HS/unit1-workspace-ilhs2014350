@@ -6,6 +6,9 @@
     "editor.minimap.enabled": false,
     "editor.autoClosingBrackets": "always",
     "editor.autoClosingQuotes": "always",
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    },
     // File exclusion settings
     "files.exclude": {
         "**/.git": true,
